@@ -6,6 +6,12 @@
 ### Project Goal:
 To analyze Spotify track data using Python and Pandas to find trends in music popularity, artist performance, and song attributes.
 
+### Current Progress (Updated March 30, 2026):
+- [x] Downloaded raw dataset (.csv).
+- [x] Initialized GitHub repository.
+- [ ] Set up Google Colab environment.
+- [ ] Data Cleaning & Exploration (Next Step).
+
 ### Current Progress (Updated March 31, 2026):
 - [x] Downloaded raw dataset (.csv).
 - [x] Migrated project from Jupyter "Try" to **Google Colab** for better library support.
