@@ -6,11 +6,11 @@
 ### Project Goal:
 To analyze Spotify track data using Python and Pandas to find trends in music popularity, artist performance, and song attributes.
 
-### Current Progress:
+### Current Progress (Updated March 31, 2026):
 - [x] Downloaded raw dataset (.csv).
-- [x] Initialized GitHub repository.
-- [ ] Set up Google Colab environment.
-- [ ] Data Cleaning & Exploration (Next Step).
+- [x] Migrated project from Jupyter "Try" to **Google Colab** for better library support.
+- [x] Verified environment setup (Pandas, NumPy, Matplotlib, Seaborn imported successfully).
+- [ ] Data Upload & Initial Cleaning (Next Step - Pending file upload).
 
-### Notes:
-The raw CSV file appears unformatted in Excel due to delimiter settings, but it will be processed using the `pandas` library in the next stage.
+### 🛠️ Technical Notes:
+Encountered `ModuleNotFoundError` in the Jupyter browser environment. Successfully resolved this by switching to Google Colab, where the required data science libraries are pre-installed and more stable.
