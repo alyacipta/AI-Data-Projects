@@ -3,7 +3,12 @@
 **Purpose:** A collection of strategic insights, learning methodologies, and technical "ngulik" ideas gathered during my self-discovery phase.
 
 ---
-
+## 🚀 Upcoming Lab
+**Primary Target:** [Laptop Price Predictor - Regression Project](https://github.com/campusx-official/laptop-price-predictor-regression-project)
+* **Goal:** Implement an end-to-end Machine Learning pipeline, from data cleaning to model deployment.
+* **Focus:** Master the **Regression** logic and feature engineering.
+  
+---
 ## 🗺️ The Branches of Artificial Intelligence
 To avoid "Tunnel Vision" [fokus sempit], I have categorized the AI landscape to identify which areas align best with my **Computer Engineering** background.
 
