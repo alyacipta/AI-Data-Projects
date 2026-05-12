@@ -4,7 +4,9 @@
 [![Status](https://img.shields.io/badge/Status-In_Progress-yellow)](https://github.com/alyacipta)
 
 ## 📝 Brief Description
-This repository serves as a technical journal and daily progress documentation for my journey in mastering **RDKit**. RDKit is an essential Python library for **Cheminformatics** and **Machine Learning** within the pharmaceutical and biological fields. My primary focus is to understand molecular structure manipulation, chemical descriptors, and the integration of AI for compound optimization.
+This repository serves as a technical journal and documentation of my daily progress in mastering **RDKit**. This project is a foundational training exercise assigned by my lecturer to build familiarity with dataset structures and refine my basic skills in **Cheminformatics**. 
+
+Before diving into large-scale data processing and publishing research journals, I am focusing on developing a strong habit of data exploration. My current primary focus includes molecular structure manipulation, understanding chemical descriptors, and exploring how AI can be integrated for compound optimization.
 
 ---
 
@@ -16,6 +18,15 @@ This repository serves as a technical journal and daily progress documentation f
 ---
 
 ## 📅 Daily Progress Log
+
+### 🗓️ Start: 12/05/26
+### 🗓️ Deadline: 19/05/26
+#### 🚀 Progress:
+- **Topic:** First practice from ms. Enjel
+- **Activities:**
+  - Change molekular using RDKIT and Morgan Fingerprint.
+  - Then Gather it again with study cases
+- **Technical Notes:** -
 
 ### 🗓️ Date: [Next Date]
 #### 🚀 Progress:
