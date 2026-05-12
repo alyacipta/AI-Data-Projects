@@ -22,19 +22,11 @@ Before diving into large-scale data processing and publishing research journals,
 ### 🗓️ Start: 12/05/26
 ### 🗓️ Deadline: 19/05/26
 #### 🚀 Progress:
-- **Topic:** First practice from ms. Enjel
+- **Topic:** 1st Practice | Immune System - LOA Ensemble
 - **Activities:**
   - Change molekular using RDKIT and Morgan Fingerprint.
   - Then Gather it again with study cases
 - **Technical Notes:** -
-
-### 🗓️ Date: [Next Date]
-#### 🚀 Progress:
-- **Topic:** [Example: Molecular Descriptors & Lipinski's Rule]
-- **Activities:**
-  - Calculating Molecular Weight and LogP values.
-  - Applying Lipinski's Rule of Five filters to the molecular dataset.
-- **Technical Notes:** It is crucial to maintain **consistency** [konsistensi] in SMILES formatting to prevent errors during descriptor calculations.
 
 ---
 
