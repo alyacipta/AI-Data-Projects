@@ -8,31 +8,26 @@ Repositori ini berfungsi sebagai jurnal teknis dan dokumentasi progres harian sa
 
 ---
 
-## 📅 Log Progres Harian
-
-### 🗓️ [Selasa, 12 Mei 2026]
-**Progres:**
-- [ ] **Environment Setup:** Berhasil menginstal RDKit menggunakan `uv` atau `conda`.
-- [ ] **Basic Manipulation:** Mempelajari cara membaca format file SMILES dan SDF.
-- [ ] **Visualization:** Menampilkan struktur 2D molekul sederhana dalam Jupyter Notebook.
-- **Kendala/Insight:** *Tuliskan tantangan yang kamu hadapi di sini.*
-
----
-
-### 🗓️ [Tanggal Baru]
-**Progres:**
-- [ ] **Materi Utama:** Deskripsi singkat apa yang dipelajari.
-- [ ] **Implementasi:** Fungsi atau script apa yang berhasil dibuat.
-- [ ] **Output:** Hasil analisis atau visualisasi yang didapat.
-- **Kendala/Insight:** *Tuliskan insight baru atau error yang berhasil diselesaikan.*
-
----
-
 ## 🛠️ Tools & Libraries
 - **Language:** Python 3.13+
 - **Cheminformatics:** RDKit
 - **Analysis:** Pandas, NumPy
 - **Visuals:** Matplotlib, Drawing Tools RDKit
+
+---
+
+## 📅 Log Progres Harian
+
+### 🗓️ Tanggal: [Tanggal Berikutnya]
+#### 🚀 Progres:
+- **Topik:** [Contoh: Deskriptor Molekul & Lipinski Rule]
+- **Aktivitas:**
+  - Menghitung berat molekul (Molecular Weight) dan nilai LogP.
+  - Menerapkan filter untuk aturan Lipinski pada dataset molekul.
+- **Catatan Teknis:** Perlu memperhatikan **consistency** [konsistensi] format SMILES agar tidak terjadi error saat kalkulasi deskriptor.
+- **Link Colab:** [Tempel link]
+
+---
 
 ## 🎯 Target Akhir
 - [ ] Memahami integrasi RDKit dengan Deep Learning (Graph Neural Networks).
