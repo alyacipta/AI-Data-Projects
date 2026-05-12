@@ -37,8 +37,8 @@ This repository serves as a technical journal and daily progress documentation f
 ## 📚 Resources & References
 - **Data Source:** [DrugBank Online](https://go.drugbank.com/) — High-quality chemical and pharmaceutical database.
 - **Learning Materials:**
-  - [RDKit Python Tutorial - Introduction](https://youtu.be/9Z9XM9xamDU?si=Wb5nxRwFQwTuKgd5) by *Data Professor*.
-  - [RDKit for Cheminformatics - Deep Dive](https://youtu.be/vgmMIFXWL1w?si=vv0BNZrc88kARr30) by *Data Professor*.
+  - [RDKit Python Tutorial - Introduction](https://youtu.be/9Z9XM9xamDU?si=Wb5nxRwFQwTuKgd5) .
+  - [RDKit for Cheminformatics - Deep Dive](https://youtu.be/vgmMIFXWL1w?si=vv0BNZrc88kARr30) .
 
 ---
 <p align="center">
